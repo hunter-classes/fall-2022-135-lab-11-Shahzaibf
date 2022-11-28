@@ -1,3 +1,12 @@
+/*
+Author: Shahzaib Fareed
+Course: CSCI-135
+Instructor: Zamansky
+Assignment: Lab 11
+    In lab I had to create 2 classes, profile and network.
+    Network is an assortment of the profile class.
+    Below is the main file with tests for the 3 tasks.
+*/
 #include "profile.h"
 #include "network.h"
 #include <string>

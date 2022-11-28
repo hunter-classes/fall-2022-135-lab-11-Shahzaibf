@@ -1,3 +1,10 @@
+/*
+Author: Shahzaib Fareed
+Course: CSCI-135
+Instructor: Zamansky
+Assignment: Lab 11
+    Below is the header file for profile, with all the vars/funcs.
+*/
 #include <string>
 #include <iostream>
 #pragma once

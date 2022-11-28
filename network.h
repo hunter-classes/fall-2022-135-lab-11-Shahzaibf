@@ -1,3 +1,10 @@
+/*
+Author: Shahzaib Fareed
+Course: CSCI-135
+Instructor: Zamansky
+Assignment: Lab 11
+    Below is the header file for network, with all the vars/funcs.
+*/
 #include <string>
 #include <iostream>
 #include "profile.h"

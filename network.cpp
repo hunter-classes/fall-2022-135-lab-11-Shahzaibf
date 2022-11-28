@@ -1,3 +1,10 @@
+/*
+Author: Shahzaib Fareed
+Course: CSCI-135
+Instructor: Zamansky
+Assignment: Lab 11
+    Below is the code for the network class funcs.
+*/
 #include "network.h"
 #include <iostream>
 #include <string>

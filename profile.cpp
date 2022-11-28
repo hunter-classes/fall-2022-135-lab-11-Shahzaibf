@@ -1,3 +1,10 @@
+/*
+Author: Shahzaib Fareed
+Course: CSCI-135
+Instructor: Zamansky
+Assignment: Lab 11
+    Below is the code for the profile class funcs.
+*/
 #include "profile.h"
 #include <iostream>
 #include <string>
